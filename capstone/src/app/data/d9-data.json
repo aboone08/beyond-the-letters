@@ -1,0 +1,258 @@
+{
+    "organizations": [
+      {
+       "$comment": "Alpha",
+        "id": "alpha",
+        "name": "Alpha Phi Alpha Fraternity, Inc.",
+        "shield": "/shields/apa-shield.png",
+        "letters": "ΑΦΑ",
+        "founded": "December 4, 1906 at Cornell University",
+        "colors":  ["#000", "#B8860B"],
+        "colorDetails": [
+            {"name": "Old Gold", "hex": "#B8860B"},
+            {"name": "Black", "hex": "#000"}
+        ],
+        "nicknames": "Alphas",
+        "symbol": "Sphinx",
+        "flower": "Yellow Rose",
+        "motto": "First of All, Servants of All, We Shall Transcend All",
+        "pillars": "Scholarship, Fellowship, Good Character, and the Uplifting of Humanity",
+        "famousMembers": ["Martin Luther King Jr.", "Thurgood Marshall", "Jesse Owens"],
+        "website": "https://apa1906.net",
+        "foundationName": "Alpha Phi Alpha Foundations",
+        "foundationLink": "https://apa1906.net/foundation/",
+        "chapterLocator": "https://apa1906.net/alpha-chapters-locator/"
+      },
+      {
+        "$comment": "AKA",
+        "id": "aka",
+        "name": "Alpha Kappa Alpha Sorority, Inc.",
+        "shield": "/shields/aka-shield.svg",
+        "letters": "ΑΚΑ",
+        "founded": "January 15, 1908 at Howard University",
+        "colors": ["#F3B0B1" , "#A8DA61"],
+        "colorDetails":[
+            {"name": "Salmon Pink", "hex": "#F3B0B1"},
+            {"name": "Apple Green", "hex": "#A8DA61"}
+        ],
+        "nicknames": "AKA's, K's",
+        "symbol": "Ivy Leaf",
+        "flower": "Pink Tea Rose",
+        "motto": "By Culture and By Merit",
+        "pillars": "Sisterhood, Scholarship, and Service to all Mankind",
+        "famousMembers": ["Kamala Harris", "Katherine Johnson", "Toni Morrison"],
+        "website": "https://aka1908.com",
+        "foundationName": "Alpha Kappa Alpha Educational Advancement Foundation",
+        "foundationLink": "https://akaeaf.org/",
+        "chapterLocator": "https://akawebnet.aka1908.net/eweb/dynamicpage.aspx?webcode=cl_public&site=aka"
+      },
+      {
+        "$comment": "Kappa",
+        "id": "kappa",
+        "name": "Kappa Alpha Psi Fraternity, Inc.",
+        "shield": "/shields/kappa-shield.png",
+        "letters": "ΚΑΨ",
+        "founded": "January 5, 1911 at Indiana University Bloomington",
+        "colors": ["#70110C", "#F2EBD7"],
+        "colorDetails": [
+            {"name": "Crimson", "hex": "#70110C"},
+            {"name": "Cream", "hex": "#F2EBD7"}
+        ],
+        "nicknames": "Kappas, Pretty Boys, Nupes",
+        "symbol": "Diamond",
+        "flower": "Carnation",
+        "motto": "Achievement in Every Field of Human Endeavor",
+        "pillars": "Achievement, Scholarship, and Fraternity",
+        "famousMembers": ["Colin Kaepernick", "Arthur Ashe", "Cedric the Entertainer"],
+        "website": "https://kappaalphapsi1911.com",
+        "foundationName": "The Kappa Alpha Psi Foundation",
+        "foundationLink": "https://thekappafoundation.org/",
+        "chapterLocator": "https://members.kappaalphapsi1911.com/s/public-directory?id=a2nVT000000DOJ4"
+      },
+      {
+        "$comment": "Ques",
+        "id": "que",
+        "name": "Omega Psi Phi Fraternity, Inc.",
+        "shield": "/shields/que-shield.png",
+        "letters": "ΩΨΦ",
+        "founded": "November 17, 1911 at Howard University",
+        "colors": ["#6D2077", "#B7A57A"],
+        "colorDetails": [
+            {"name": "Royal Purple", "hex": "#6D2077"},
+            {"name": "Old Gold", "hex": "#B7A57A"}
+        ],
+        "nicknames": "Omegas, Ques, Que Dogs",
+        "symbol": "Lamp",
+        "flower": "African Violet",
+        "motto": "Friendship is Essential to the Soul",
+        "pillars": "Manhood, Scholarship, Perserverance, and Uplift",
+        "famousMembers": ["Michael Jordan", "Langston Hughes", "Shaqulle O'Neal"],
+        "website": "https://oppf.org",
+        "foundationName": "Omega Life Membership Foundation",
+        "foundationLink": "https://olmf.org/",
+        "chapterLocator": "https://oppf.org/district-sites/"
+      },
+      {
+        "$comment": "Delta",
+        "id": "delta",
+        "name": "Delta Sigma Theta Sorority, Inc.",
+        "shield": "/shields/delta-shield.svg",
+        "letters": "ΔΣΘ",
+        "founded": "January 13, 1913 at Howard University",
+        "colors": ["#70110C", "#F2EBD7"],
+        "colorDetails": [
+            {"name": "Crimson", "hex": "#70110C"},
+            {"name": "Creme", "hex": "#F2EBD7"}
+        ],
+        "nicknames": "Deltas, DST",
+        "symbol": "Lady Fortitude",
+        "flower": "African Violet",
+        "motto": "Intelligence is the Torch of Wisdom",
+        "pillars": "Sisterhood, Scholarship, Service, and Social Action",
+        "famousMembers": ["Shirley Chisholm", "Dorothy Height", "Cicely Tyson"],
+        "website": "https://deltasigmatheta.org",
+        "foundationName": "Delta Research and Educational Foundation",
+        "foundationLink": "https://deltafoundation.net/",
+        "chapterLocator": "https://members.dstonline.org/Portal/Contact_Management/Chapter-Locator.aspx"
+      },
+      {
+        "$comment": "Sigma",
+        "id": "sigma",
+        "name": "Phi Beta Sigma Fraternity, Inc.",
+        "shield": "/shields/sigma-shield.png",
+        "letters": "ΦΒΣ",
+        "founded": "January 9, 1914 at Howard University",
+        "colors": ["#164f90", "#FFF"],
+        "colorDetails": [
+            {"name": "Royal Blue", "hex": "#164f90"},
+            {"name": "Pure White", "hex": "#FFF"}
+        ],
+        "nicknames": "Sigmas",
+        "symbol": "Dove",
+        "flower": "White Carnation",
+        "motto": "Culture For Service and Service For Humanity",
+        "pillars": "Brotherhood, Scholarship, and Service",
+        "famousMembers": ["John Lewis", "George Washington Carver", "Emmit Smith"],
+        "website": "https://phibetasigma1914.org",
+        "foundationName": "PBS Impact Foundation",
+        "foundationLink": "https://phibetasigma1914.org/pbsimpactfoundation/",
+        "chapterLocator": "https://phibetasigma1914.org/index.php/chapter-locator"
+      },
+      {
+        "$comment": "Zeta",
+        "id": "zeta",
+        "name": "Zeta Phi Beta Sorority, Inc.",
+        "shield": "/shields/zeta-shield.png",
+        "letters": "ΖΦΒ",
+        "founded": "January 16, 1920 at Howard University",
+        "colors": ["#164f90", "#FFF"],
+        "colorDetails": [
+            {"name": "Royal Blue", "hex": "#164f90"},
+            {"name": "Pure White", "hex": "#FFF"}
+        ],
+        "nicknames": "Zetas, ZPhiB, Finer Women",
+        "symbol": "Dove",
+        "flower": "White Rose",
+        "motto": "A community-conscious, action-oriented organization",
+        "pillars": "Service, Scholarship, Sisterhood and Finer Womanhood",
+        "famousMembers": ["Zora Neale Hurston", "Sheryl Underwood", "Anita Hill"],
+        "website": "https://zphib1920.org",
+        "foundationName": "Zeta National Educational Foundation",
+        "foundationLink": "https://www.znef.org/",
+        "chapterLocator": "https://zphib1920.org/membership/chapter-locator-search-map/"
+      },
+      {
+        "$comment": "SGRho",
+        "id": "sgr",
+        "name": "Sigma Gamma Rho Sorority, Inc.",
+        "shield": "/shields/sgrho-shield.svg",
+        "letters": "ΣΓΡ",
+        "founded": "November 12, 1922 at Butler University",
+        "colors": ["#1639A0", "#D1A217"],
+        "colorDetails": [
+            {"name": "Royal Blue", "hex": "#1639A0"},
+            {"name": "Gold", "hex": "#D1A217"}
+        ],
+        "nicknames": "SGRhos, Pretty Poodles",
+        "symbol": "Poodle",
+        "flower": "Yellow Tea Rose",
+        "motto": "Greater Service, Greater Progress",
+        "pillars": "Sisterhood, Respect, Honesty, Accountability, Integrity, Excellence, and Communication",
+        "famousMembers": ["Hattie McDaniel", "MC Lyte", "Kelly Price"],
+        "website": "https://sgrho1922.org",
+        "foundationName": "SPEAR Foundation",
+        "foundationLink": "https://www.sgrho1922.org/SGR/sgr/Corporate_Partnerships.aspx?hkey=87ffb82c-0caf-4b6e-be6a-dac23933cb02",
+        "chapterLocator": "https://sgrho1922.org/SGR/sgr/Membership/Find_a_Chapter.aspx?hkey=3217c1ca-9edb-4a44-80b0-18f1540f3fb3"
+      },
+      {
+        "$comment": "Iota",
+        "id": "iota",
+        "name": "Iota Phi Theta Fraternity, Inc.",
+        "shield": "/shields/iota-shield.png",
+        "letters": "ΙΦΘ",
+        "founded": "September 19, 1963 at Morgan State University",
+        "colors": ["#462416", "#E6AD00"],
+        "colorDetails": [
+            {"name": "Charcoal Brown", "hex": "#462416"},
+            {"name": "Gilded Gold", "hex": "#E6AD00"}
+        ],
+        "nicknames": "Iotas, Centaurs, Outlaws, Thetaman",
+        "symbol": "Centaur",
+        "flower": "Yellow Rose",
+        "motto": "Building a Tradition, Not Resting Upon One!",
+        "pillars": "The development and perpetuation of Scholarship, Leadership, Citizenship, Fidelity, and Brotherhood among Men",
+        "famousMembers": ["T.C. Carson", "Bobby L. Rush", "Kendrick Meek"],
+        "website": "https://iotaphitheta.org",
+        "foundationName": "Iota Phi Theta Foundation, Inc.",
+        "foundationLink": "https://iotaphitheta.org/foundations/",
+        "chapterLocator": "https://iotaphitheta.org/chapter-locator/"
+      }
+    ],
+    "myths": [
+      {
+        "id": 1,
+        "question": "Is the Divine Nine only for undergraduate students?",
+        "answer": "No. All NPHC organizations have graduate and alumni chapters for professionals to join and serve later in life."
+      },
+      {
+        "id": 2,
+        "question": "Are these organizations only focused on social events?",
+        "answer": "While social bonding is a part of the experience, the primary focus of the Divine Nine is community service, social action, and scholarship."
+      },
+      {
+        "id": 3,
+        "question": "Do you have to be Black to join a D9 organization?",
+        "answer": "No. While they are historically Black organizations founded to support Black students, they are non-discriminatory and open to individuals of all backgrounds who support their mission."
+      },
+      {
+        "id": 4,
+        "question": "Are all nine organizations fraternities?",
+        "answer": "No. The Divine Nine consists of five fraternities and four sororities."
+      },
+      {
+        "id": 5,
+        "question": "Can you belong to more than one NPHC organization?",
+        "answer": "No. Membership in an NPHC organization is a lifelong commitment, and individuals may only hold membership in one of the nine organizations."
+      },
+      {
+        "id": 6,
+        "question": "Is the Divine Nine a secret society?",
+        "answer": "They are 'societies with secrets.' While their rituals and internal symbols are private, their missions, members, and service work are very public."
+      },
+      {
+        "id": 7,
+        "question": "Was the Divine Nine founded all at once?",
+        "answer": "No. The organizations were founded independently between 1906 and 1963. The NPHC was formed in 1930 to coordinate their efforts."
+      },
+      {
+        "id": 8,
+        "question": "Are 'Divine Nine' and 'NPHC' the same thing?",
+        "answer": "The NPHC is the governing body; the 'Divine Nine' is the popular name for the group of organizations it represents."
+      },
+      {
+        "id": 9,
+        "question": "Is 'stepping' or 'strolling' required for all members?",
+        "answer": "While stepping and strolling are iconic cultural traditions within the organizations, participation is usually optional and varies by individual chapter and member interest."
+      }
+    ]
+  }
